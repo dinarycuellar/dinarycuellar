@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img alt="typing-svg" src="https://readme-typing-svg.demolab.com?font=Lexend+Code&pause=1000&color=64FFDA&width=435&lines=howdy%2C+dinary+cuellar+here."/></a>
+<a href="https://git.io/typing-svg"><img alt="typing-svg" src="https://readme-typing-svg.demolab.com?font=Lexend+Code&pause=1000&color=64FFDA&width=435&lines=Howdy%2C+Dinary+Cuellar+here."/></a>
 <p>
-As of now, I am in the process of working on my <a href="https://github.com/dinarycuellar/personal_website" target="_blank">personal portfolio</a> website. Besides writing code, I enjoy reading (and coffee).
+I am a Computer Science major at the Univeristy of New Orleans. The project I am currently working on is my <a href="https://github.com/dinarycuellar/personal_website" target="_blank">personal portfolio</a> website.
 </p>
 <br>
 
